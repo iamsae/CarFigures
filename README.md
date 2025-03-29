@@ -77,7 +77,7 @@ spawnMessages = [
     { message = "A mysterious portal opens... and out steps a CarFigure!", rarity = 4 },
     { message = "Woah, is that a CarFigure?!", rarity = 3 },
     { message = "A drop has been spotted, and it has a CarFigure inside it!", rarity = 2 },
-    { message = "Think fast chucklenuts!", rarity = 1 }
+    { message = "Think fast chucklenuts!", rarity = 1 },
     { message = "A CarFigure sneaks up behind you! Boo!", rarity = 0.5 },
 ]
 catchButtonMessages = [
